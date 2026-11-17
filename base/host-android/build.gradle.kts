@@ -31,5 +31,5 @@ dependencies {
 
     testImplementation("junit:junit:4.13.2")
     // The real org.json in unit tests (android.jar only has stubs).
-    testImplementation("org.json:json:20240303")
+    testImplementation("org.json:json:20260814")
 }
